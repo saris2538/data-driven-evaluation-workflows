@@ -33,20 +33,20 @@ The goal is to make the system understandable even to readers outside the petrol
 At a high level, the evaluation automates the transformation of raw data into
 comparable economic outcomes for candidate infill wells.
 
-reservoir_indicators
-+
-producing_sands
-+
-well_design_proxies
-↓
-integrated_inputs
-↓
-simulator (API)
-↓
-sand_level_revenue
-↓
-well_level_revenue
-↓
+reservoir_indicators  
++  
+producing_sands  
++  
+well_design_proxies  
+↓  
+integrated_inputs  
+↓  
+simulator (API)  
+↓  
+sand_level_revenue  
+↓  
+well_level_revenue  
+↓  
 expected_profit
 
 The detailed logic is documented in:
